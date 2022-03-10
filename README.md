@@ -25,7 +25,13 @@ badBank was the portfolio project for the module on front end development as par
 
 ## Features 
 - The main feature of this iteration of the badBank application is that the "Create Account" page now connects to a database so that user information is stored. 
-The user information can then be viewed in the "AllData" tab of the application. Please see [Suggestions for Improvement](https://github.com/briennekordis/badBankFull/blob/main/README.md#suggestions-for-improvement) for how these features will be improved in the future. 
+The user information can then be viewed in the "AllData" tab of the application. The images below display these new features.
+- Please see [Suggestions for Improvement](https://github.com/briennekordis/badBankFull/blob/main/README.md#suggestions-for-improvement) for how these features will be improved in the future. 
+
+![Screen Shot 2022-03-10 at 12 20 56 PM](https://user-images.githubusercontent.com/87245718/157723794-49693be8-58b8-4416-8b0b-1ca6f50156c5.png)
+![Screen Shot 2022-03-10 at 12 20 46 PM](https://user-images.githubusercontent.com/87245718/157723816-769b469b-25ce-4300-a7fa-ccbdc8e9e74e.png)
+![Screen Shot 2022-03-10 at 12 21 08 PM](https://user-images.githubusercontent.com/87245718/157723832-f3518be1-86ab-4a2a-926e-da78dad7d401.png)
+
 
 ## Setup & Use
 1. Download or clone the project's repository. 
