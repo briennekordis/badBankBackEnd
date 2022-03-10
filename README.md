@@ -2,12 +2,12 @@
 badBankFull
 
 ## Table of Contents
- - [Description & General Info](https://github.com/briennekordis/badBankFull/blob/main/README.md#description--general-info)
- - [Languages & Technologies](https://github.com/briennekordis/badBankFull/blob/main/README.md#languages--technologies)
- - [Features](https://github.com/briennekordis/badBankFull/blob/main/README.md#dfeatures)
- - [Setup & Use](https://github.com/briennekordis/badBankFull/blob/main/README.md#setup--use)
- - [Suggestions for Improvement](https://github.com/briennekordis/badBankFull/blob/main/README.md#suggestions-for-improvement)
- - [Licensing Information](https://github.com/briennekordis/badBankFull/blob/main/README.md#licensing-information)
+ - [Description & General Info](https://github.com/briennekordis/badBankFull#description--general-info)
+ - [Languages & Technologies](https://github.com/briennekordis/badBankFull#languages--technologies)
+ - [Features](https://github.com/briennekordis/badBankFull#features)
+ - [Setup & Use](https://github.com/briennekordis/badBankFull#setup--use)
+ - [Suggestions for Improvement](https://github.com/briennekordis/badBankFull#suggestions-for-improvement)
+ - [Licensing Information](https://github.com/briennekordis/badBankFull#licensing-information)
  
 ## Description & General Info
 This project is a refactored version of the [badBank](https://github.com/briennekordis/badBank/blob/main/README.md#description--general-info) project (bad because it is an online bank simulation with no built in security!) that now includes a back-end. Whereas the original project only used local context, this iteration
@@ -26,7 +26,7 @@ badBank was the portfolio project for the module on front end development as par
 ## Features 
 - The main feature of this iteration of the badBank application is that the "Create Account" page now connects to a database so that user information is stored. 
 The user information can then be viewed in the "AllData" tab of the application. The images below display these new features.
-- Please see [Suggestions for Improvement](https://github.com/briennekordis/badBankFull/blob/main/README.md#suggestions-for-improvement) for how these features will be improved in the future. 
+- Please see [Suggestions for Improvement](https://github.com/briennekordis/badBankFull#suggestions-for-improvement) for how these features will be improved in the future. 
 
 ![Screen Shot 2022-03-10 at 12 20 56 PM](https://user-images.githubusercontent.com/87245718/157723794-49693be8-58b8-4416-8b0b-1ca6f50156c5.png)
 ![Screen Shot 2022-03-10 at 12 20 46 PM](https://user-images.githubusercontent.com/87245718/157723816-769b469b-25ce-4300-a7fa-ccbdc8e9e74e.png)
